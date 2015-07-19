@@ -1,0 +1,10 @@
+DELETE FROM place_connections;
+DELETE FROM player;
+DELETE FROM actors;
+DELETE FROM items;
+DELETE FROM places;
+DELETE FROM game;
+DELETE FROM quest;
+DELETE FROM qtrigger;
+DELETE FROM qaction;
+DELETE FROM gameflag;

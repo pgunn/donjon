@@ -1,0 +1,5 @@
+DELETE FROM place_connections;
+DELETE FROM player;
+DELETE FROM actors;
+DELETE FROM items;
+DELETE FROM places;
